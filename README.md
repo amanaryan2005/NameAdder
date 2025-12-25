@@ -112,6 +112,6 @@ The backend exposes the following endpoints:
 If you are using environment variables (e.g., specific ports), create a `.env` file in your **server** directory:
 
 ```env
-PORT=5000
+PORT=5001
 
 
