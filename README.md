@@ -14,7 +14,7 @@ A simple full-stack web application that captures user names and displays them. 
 **Frontend:**
 
 * React.js
-* CSS (or Tailwind/Bootstrap)
+* CSS
 * Fetch API / Axios
 
 **Backend:**
